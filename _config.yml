@@ -173,7 +173,7 @@ sidebar:
             order: 0
         -   url: https://www.instagram.com/acorn._.tory/ # Local or remote URL
             #title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram" /> <span> View on Instagram </span>
+            title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram"> <span> View on Instagram </span> </i>
             order: 1 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
