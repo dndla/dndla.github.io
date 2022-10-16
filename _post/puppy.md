@@ -1,6 +1,6 @@
 ---
 title: My Puppy
-description: 제 반려견을 소개합니다.
+description: 호기심 대마왕 싸나이토리
 layout: libdoc/page
 category: Me
 order: 90
