@@ -168,10 +168,13 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
+        -   url: https://github.com/dndla/dndla.github.io # Local or remote URL
+            title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
+            order: 0
         -   url: https://www.instagram.com/acorn._.tory/ # Local or remote URL
             #title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
-            title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram"></i>
-            order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
+            title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram" /> <span> View on Instagram </span>
+            order: 1 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
         #     title: Iframe mode example # Link text
