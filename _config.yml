@@ -190,11 +190,11 @@ sidebar:
             title: SEEMAP
             order: 500
             category: Showcase
-        -   url: https://www.naver.com
-            title: naver
+        -   url: https://dndla.github.io
+            title: It's Me
             order: 100
             iframe_mode: true
-            category: naver
+            category: me
         # Example remote URL
         -   url: https://pages.github.com
             title: Github Pages
