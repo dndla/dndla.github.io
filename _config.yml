@@ -168,7 +168,7 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
+        -   url: https://www.instagram.com/acorn._.tory/ # Local or remote URL
             #title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram"></i>
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
