@@ -1,6 +1,6 @@
 ---
-title: My Pyppy is...
-description: Playhead moves once the element gets into the viewport.
+title: My Puppy
+description: 제 반려견을 소개합니다.
 layout: libdoc/page
 category: me
 order: 90
@@ -8,6 +8,7 @@ order: 90
 
 ```html
 <div>
-    <h1>안녕하세요. </h1>
+    <h1>안녕하세요. 제 반려견 도토리를 소개합니다.</h1>
+    <img src="/assets/libdoc/img/favicon/tory_512.png" />
 </div>
 ```html
