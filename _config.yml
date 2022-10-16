@@ -169,7 +169,8 @@ sidebar:
     # Display additional links anywhere into the sidebar
     additional_links:
         -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
-            title: <link href='https://css.gg/instagram.css' rel='stylesheet'><i class="gg-instagram"></i> View on Instagram # Link text
+            #title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
+            title: <link href='https://css.gg/instagram.css' rel='stylesheet'> <i class="gg-instagram"></i>
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
         # -   url: https://www.youtube.com/embed/iWowJBRMtpc # Local or remote URL
