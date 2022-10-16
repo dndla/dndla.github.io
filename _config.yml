@@ -190,10 +190,11 @@ sidebar:
             title: SEEMAP
             order: 500
             category: Showcase
-        -   url: /
-            title: It's Me
-            order: 1
-            category: me
+        -   url: https://www.naver.com
+            title: naver
+            order: 100
+            iframe_mode: true
+            category: naver
         # Example remote URL
         -   url: https://pages.github.com
             title: Github Pages
