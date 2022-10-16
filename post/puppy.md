@@ -7,6 +7,6 @@ order: 90
 ---
 
 <div>
-    <h1>안녕하세요!! 제 소중한 반려견 도토리를 소개합니다.</h1>
+    <p class="u-fs-lg u-m-none u-lh-base" u-fs-md="sm">안녕하세요!! 제 소중한 반려견 도토리를 소개합니다.</p>
     <img src="/assets/libdoc/img/favicon/tory_512.png" />
 </div>
