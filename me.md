@@ -6,9 +6,7 @@ category: me
 order: 90
 ---
 
-```html
 <div>
     <h1>안녕하세요. 제 반려견 도토리를 소개합니다.</h1>
     <img src="/assets/libdoc/img/favicon/tory_512.png" />
 </div>
-```html
