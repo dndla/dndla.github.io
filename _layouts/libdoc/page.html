@@ -7,6 +7,7 @@ layout: libdoc/default
             <h1 id="libdoc-page-title" class="u-mt-none u-mb-xs">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
             <p class="u-fs-lg u-m-none u-lh-base" u-fs-md="sm">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}
                 {% if page.title == 'Search results' %} <a href="{{ page.url | absolute_url }}?query=" class="link libdoc-search-query">query</a>{% endif %}</p>
+                {{page.title}}
                 {% if page.title == ''%}
                 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
                 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
