@@ -157,7 +157,7 @@ sidebar:
 
         # LOGO MAX HEIGHT
         # Logo image max height, applies only if url is set
-        max_height: 40px
+        max_height: 80px
 
         # LOGO FONT SIZE FALLBACK
         # If no logo url, font size of the site title, ignored if url is set
