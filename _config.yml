@@ -153,7 +153,7 @@ sidebar:
     logo:
         # LOGO URL
         # Image URL: Can be local e.g. '/img/logo.png' or remote 'https://remotesite.com/img/logo.png'
-        url: /assets/libdoc/img/favicon/IMG_7460.png
+        url: /assets/libdoc/img/IMG_7460.png
 
         # LOGO MAX HEIGHT
         # Logo image max height, applies only if url is set
