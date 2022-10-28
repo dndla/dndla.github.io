@@ -16,6 +16,13 @@ MongoDB 설치 후 아래와 같은 에러가 발생하였다.<br/>
 
     node -v
 
+:point_right: brew를 이용하여 node 버전 변경
 
+    # 노트버전 조회
+    brew search node
+    # 노드 설치 
+    brew install node@14
+    # 노드 링크 
+    brew link node@14
 
 
