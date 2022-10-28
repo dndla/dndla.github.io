@@ -26,6 +26,8 @@ MongoDB Database 화면에서 `Build a database`를 클릭하여 DB를 생성합
 
 <img width="1431" alt="스크린샷 2022-10-28 오후 11 00 25" src="https://user-images.githubusercontent.com/59944155/198632027-85e508bc-6525-4409-8d32-b73b1245aff7.png">
 
+## User 생성
+
 클릭하게 되면 클러스터가 생성되면서 유저를 생성할수 있도록 제공합니다. 
 평상시 쓰던 username, password로 유저를 생성하여 주었습니다.   
 <span style="background-color: #fff5b1">사진에는 .을 포함하였는데 username 명명규칙에 어긋나서 wooim 이라고 생성하였습니다..!</span>   
@@ -33,5 +35,6 @@ MongoDB Database 화면에서 `Build a database`를 클릭하여 DB를 생성합
 <img width="1431" alt="스크린샷 2022-10-28 오후 11 03 42" src="https://user-images.githubusercontent.com/59944155/198632005-bb67df17-b96b-4695-bd24-7a2de1bf00d3.png">
 
 
-유저까지 생성하고 나면 클러스터 생성은 완료입니다. 
+## Cluster 생성 완료
+
 <img width="1395" alt="스크린샷 2022-10-28 오후 11 11 18" src="https://user-images.githubusercontent.com/59944155/198637185-8cef1414-15be-45c1-8e07-40f7c25115a2.png">
