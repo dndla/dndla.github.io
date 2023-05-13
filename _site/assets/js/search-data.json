@@ -1,0 +1,72 @@
+{"0": {
+    "doc": "MongoDB 생성하기",
+    "title": "Cluster 생성",
+    "content": "회원 가입 후 new project를 클릭하여 프로젝트를 생성한 뒤 MongoDB Database 화면에서 Build a database를 클릭하여 DB를 생성합니다. 무료로 제공하는 공유버전 Shared를 선택하여 줍니다. create 를 클릭한 뒤 provider 와 region을 선택합니다. 이번에 새로 생성하면서 서울이 무료버전에 추가되었더라구요, 그래서 전 서울로 선택하였습니다. 그리고 클러스터 이름을 테스트로 ‘dev-node’로 넣어준뒤 생성을 클릭하였습니다. ",
+    "url": "/database/mongo/1/#cluster-%EC%83%9D%EC%84%B1",
+    
+    "relUrl": "/database/mongo/1/#cluster-생성"
+  },"1": {
+    "doc": "MongoDB 생성하기",
+    "title": "User 생성",
+    "content": "클릭하게 되면 클러스터가 생성되면서 유저를 생성할수 있도록 제공합니다. 평상시 쓰던 username, password로 유저를 생성하여 주었습니다. 사진에는 .을 포함하였는데 username 명명규칙에 어긋나서 wooim 이라고 생성하였습니다..! . ",
+    "url": "/database/mongo/1/#user-%EC%83%9D%EC%84%B1",
+    
+    "relUrl": "/database/mongo/1/#user-생성"
+  },"2": {
+    "doc": "MongoDB 생성하기",
+    "title": "Cluster 생성 완료",
+    "content": ". ",
+    "url": "/database/mongo/1/#cluster-%EC%83%9D%EC%84%B1-%EC%99%84%EB%A3%8C",
+    
+    "relUrl": "/database/mongo/1/#cluster-생성-완료"
+  },"3": {
+    "doc": "MongoDB 생성하기",
+    "title": "MongoDB 생성하기",
+    "content": ". | Cluster 생성 | User 생성 | Cluster 생성 완료 | . MongoDB Atlas 서비스를 이용하여 DB를 생성해보려고 합니다. ",
+    "url": "/database/mongo/1/",
+    
+    "relUrl": "/database/mongo/1/"
+  },"4": {
+    "doc": "Database",
+    "title": "Database",
+    "content": " ",
+    "url": "/database",
+    
+    "relUrl": "/database"
+  },"5": {
+    "doc": "Home",
+    "title": "안녕하세요!",
+    "content": ". ",
+    "url": "/#%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94",
+    
+    "relUrl": "/#안녕하세요"
+  },"6": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"7": {
+    "doc": "Minimal layout test",
+    "title": "Minimal layout test",
+    "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
+    "url": "/docs/minimal-test/",
+    
+    "relUrl": "/docs/minimal-test/"
+  },"8": {
+    "doc": "mongo",
+    "title": "mongo",
+    "content": " ",
+    "url": "/database/mongo",
+    
+    "relUrl": "/database/mongo"
+  },"9": {
+    "doc": "process-outof-memory 에러",
+    "title": "process-outof-memory 에러",
+    "content": "MongoDB 설치 후 아래와 같은 에러가 발생하였다. 관련 내용을 찾아보니 node 버전 문제로 확인되어 brew를 이용하여 버전을 변경하였다. :point_right: node 버전 확인 . node -v . :point_right: brew를 이용하여 node 버전 변경 . # 노트버전 조회 brew search node # 노드 설치 brew install node@14 # 노드 링크 brew link node@14 . ",
+    "url": "/database/mongo/2/",
+    
+    "relUrl": "/database/mongo/2/"
+  }
+}
