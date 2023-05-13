@@ -27,46 +27,74 @@
     
     "relUrl": "/database/mongo/1/"
   },"4": {
-    "doc": "Database",
-    "title": "Database",
-    "content": " ",
-    "url": "/database",
+    "doc": "docker?",
+    "title": "docker?",
+    "content": "docker…? . ",
+    "url": "/docker/1",
     
-    "relUrl": "/database"
+    "relUrl": "/docker/1"
   },"5": {
-    "doc": "Home",
-    "title": "안녕하세요!",
-    "content": ". ",
-    "url": "/#%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94",
-    
-    "relUrl": "/#안녕하세요"
-  },"6": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
-    "url": "/",
-    
-    "relUrl": "/"
-  },"7": {
-    "doc": "Minimal layout test",
-    "title": "Minimal layout test",
-    "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
-    "url": "/docs/minimal-test/",
-    
-    "relUrl": "/docs/minimal-test/"
-  },"8": {
-    "doc": "mongo",
-    "title": "mongo",
-    "content": " ",
-    "url": "/database/mongo",
-    
-    "relUrl": "/database/mongo"
-  },"9": {
     "doc": "process-outof-memory 에러",
     "title": "process-outof-memory 에러",
     "content": "MongoDB 설치 후 아래와 같은 에러가 발생하였다. 관련 내용을 찾아보니 node 버전 문제로 확인되어 brew를 이용하여 버전을 변경하였다. :point_right: node 버전 확인 . node -v . :point_right: brew를 이용하여 node 버전 변경 . # 노트버전 조회 brew search node # 노드 설치 brew install node@14 # 노드 링크 brew link node@14 . ",
     "url": "/database/mongo/2/",
     
     "relUrl": "/database/mongo/2/"
+  },"6": {
+    "doc": "Database",
+    "title": "Database",
+    "content": " ",
+    "url": "/database",
+    
+    "relUrl": "/database"
+  },"7": {
+    "doc": "Docker",
+    "title": "Docker",
+    "content": " ",
+    "url": "/docker",
+    
+    "relUrl": "/docker"
+  },"8": {
+    "doc": "Home",
+    "title": "Hi there, I’m Wooim Choi 👋",
+    "content": " ",
+    "url": "/#hi-there-im-wooim-choi-",
+    
+    "relUrl": "/#hi-there-im-wooim-choi-"
+  },"9": {
+    "doc": "Home",
+    "title": "Passionate about Data Engineer &amp; Fullstack Development ❤️‍🔥🔥",
+    "content": ". | 📘 I’m currently studying Data Engineer | . ",
+    "url": "/#passionate-about-data-engineer--fullstack-development-%EF%B8%8F",
+    
+    "relUrl": "/#passionate-about-data-engineer--fullstack-development-️"
+  },"10": {
+    "doc": "Home",
+    "title": "💻 Technologies &amp; Tools:",
+    "content": ". ",
+    "url": "/#-technologies--tools",
+    
+    "relUrl": "/#-technologies--tools"
+  },"11": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"12": {
+    "doc": "Minimal layout test",
+    "title": "Minimal layout test",
+    "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
+    "url": "/docs/minimal-test/",
+    
+    "relUrl": "/docs/minimal-test/"
+  },"13": {
+    "doc": "mongo",
+    "title": "mongo",
+    "content": " ",
+    "url": "/database/mongo",
+    
+    "relUrl": "/database/mongo"
   }
 }

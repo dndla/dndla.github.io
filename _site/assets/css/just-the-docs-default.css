@@ -7604,4 +7604,8 @@ blockquote.warning-title > p:last-child {
   margin-bottom: 0;
 }
 
+p span {
+  vertical-align: middle;
+}
+
 /*# sourceMappingURL=just-the-docs-default.css.map */
