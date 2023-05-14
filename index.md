@@ -8,13 +8,18 @@ permalink: /
 ---
 
 # Hi there, I'm Wooim Choi 👋 
-<!-- <a href="mailto:wooim.choi@gmail.com">
+<md-block>
+```html
+<a href="mailto:wooim.choi@gmail.com">
   <img width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 <a href="https://github.com/dndla/dndla.github.io" traget="_blank">
     <img src="/assets/images/github.png" style="height:20px;    margin-left:10px;" />
-</a> -->
+</a>
 <br/>
+```
+</md-block>
+
 
 ## ❤️‍🔥 Passionate about Data Engineer & Fullstack Development
 
@@ -22,12 +27,10 @@ permalink: /
 - 🌱 I’m currently focusing on Data Modelling in Data warehouse and Data mart
 - 📘 I’m currently learning Kubernetes
 
-<!-- ## Projects 🚀
--  -->
-
 ## 🛠 Languages
-<div class="d-badge">
-    <img src="/assets/images/apache_nifi.png"/>
+![apache_nifi]("/assets/images/apache_nifi.png")
+<!-- <div class="d-badge">
+    <img src=""/>
     <img src="/assets/images/apache_spark.png"/>
     <img src="/assets/images/apache_hive.png"/>
     <img src="/assets/images/prestodb.png"/>
@@ -45,4 +48,4 @@ permalink: /
     <img src="/assets/images/github.png" style="height:30px; margin-bottom:5px"/>
     <img src="/assets/images/git.png"/>
     <img src="/assets/images/docker.png"/>
-</div>
+</div> -->
