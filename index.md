@@ -7,7 +7,7 @@ nav_fold: true
 permalink: /
 ---
 
-# Hi there, I'm Wooim Choi 👋 
+# Hi there, I'm Wooim Choi 👋
 
 <!-- [![gmail](https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png)](mailto:wooim.choi@gmail.com) -->
 
