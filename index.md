@@ -3,12 +3,13 @@ layout: default
 title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+nav_fold: true
 permalink: /
 ---
 
 # Hi there, I'm Wooim Choi 👋 
 <a href="mailto:wooim.choi@gmail.com">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+  <img width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 <a href="https://github.com/dndla/dndla.github.io" traget="_blank">
     <img src="/assets/images/github.png" style="height:20px;    margin-left:10px;" />
