@@ -7,7 +7,7 @@ nav_fold: true
 permalink: /
 ---
 
-# Hi there, I'm Wooim Choi 👋
+<!-- # Hi there, I'm Wooim Choi 👋 -->
 
 <!-- [![gmail](https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png)](mailto:wooim.choi@gmail.com) -->
 
@@ -23,14 +23,14 @@ permalink: /
 ```
 </md-block> -->
 
-
+<!-- 
 ## ❤️‍🔥 Passionate about Data Engineer & Fullstack Development
 
 - 🔭 I'm currently a **Data Engineer**
 - 🌱 I’m currently focusing on Data Modelling in Data warehouse and Data mart
 - 📘 I’m currently learning Kubernetes
 
-## 🛠 Languages
+## 🛠 Languages -->
 
 <!-- <div class="d-badge">
     <img src="/assets/images/apache_nifi.png"/>
