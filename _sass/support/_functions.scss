@@ -1,6 +1,7 @@
 @function rem($size, $unit: "") {
-  $rem-size: $size / $root-font-size;
-
+  // $rem-size: $size / $root-font-size;
+  $rem-size: calc(scut-strip-unit($size) / $root-font-size);
+  
   @if $unit == false {
     @return #{$rem-size};
   } @else {
