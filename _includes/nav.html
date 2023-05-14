@@ -159,7 +159,9 @@
 {%- endcomment -%}
 
 <ul class="nav-list">
+  
 {%- for node in first_level_pages -%}
+{{node}}
     {%- unless node.nav_exclude -%}
       <li class="nav-list-item{% if page.collection == include.key and page.url == node.url or page.grand_parent == node.title or page.parent == node.title and page.grand_parent == nil %} active{% endif %}">
         {%- if node.has_children -%}
