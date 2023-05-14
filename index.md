@@ -27,22 +27,22 @@ permalink: /
 
 ## 🛠 Languages
 <div class="d-badge">
-    <img src="/assets/images/apache_nifi.png">
-    <img src="/assets/images/apache_spark.png">
-    <img src="/assets/images/apache_hive.png">
-    <img src="/assets/images/prestodb.png">
-    <img src="/assets/images/postgresql.png">
-    <img src="/assets/images/python.png"><br/>
-    <img src="/assets/images/react.png">
-    <img src="/assets/images/vuejs.png">
-    <img src="/assets/images/spring.png">
-    <img src="/assets/images/javascript.png">
-    <img src="/assets/images/oracle.png">
-    <img src="/assets/images/mysql.png">
-    <img src="/assets/images/node_icon.png"><br/>
-    <img src="/assets/images/aws.png">
-    <img src="/assets/images/tomcat.png">
-    <img src="/assets/images/github.png" style="height:30px; margin-bottom:5px">
-    <img src="/assets/images/git.png">
-    <img src="/assets/images/docker.png">
+    <img src="/assets/images/apache_nifi.png"/>
+    <img src="/assets/images/apache_spark.png"/>
+    <img src="/assets/images/apache_hive.png"/>
+    <img src="/assets/images/prestodb.png"/>
+    <img src="/assets/images/postgresql.png"/>
+    <img src="/assets/images/python.png"/><br/>
+    <img src="/assets/images/react.png"/>
+    <img src="/assets/images/vuejs.png"/>
+    <img src="/assets/images/spring.png"/>
+    <img src="/assets/images/javascript.png"/>
+    <img src="/assets/images/oracle.png"/>
+    <img src="/assets/images/mysql.png"/>
+    <img src="/assets/images/node_icon.png"/><br/>
+    <img src="/assets/images/aws.png"/>
+    <img src="/assets/images/tomcat.png"/>
+    <img src="/assets/images/github.png" style="height:30px; margin-bottom:5px"/>
+    <img src="/assets/images/git.png"/>
+    <img src="/assets/images/docker.png"/>
 </div>
