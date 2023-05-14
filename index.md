@@ -8,18 +8,18 @@ permalink: /
 ---
 
 # Hi there, I'm Wooim Choi 👋 
-<a href="mailto:wooim.choi@gmail.com">
+<!-- <a href="mailto:wooim.choi@gmail.com">
   <img width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 <a href="https://github.com/dndla/dndla.github.io" traget="_blank">
     <img src="/assets/images/github.png" style="height:20px;    margin-left:10px;" />
-</a>
+</a> -->
 <br/>
 
 ## ❤️‍🔥 Passionate about Data Engineer & Fullstack Development
 
 - 🔭 I'm currently a **Data Engineer**
-- 🌱 I’m currently focusing on DData Modelling in Data warehouse and Data mart
+- 🌱 I’m currently focusing on Data Modelling in Data warehouse and Data mart
 - 📘 I’m currently learning Kubernetes
 
 <!-- ## Projects 🚀
