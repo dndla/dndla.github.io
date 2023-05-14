@@ -56,19 +56,40 @@
     "relUrl": "/docker"
   },"8": {
     "doc": "Home",
+    "title": "Hi there, I’m Wooim Choi 👋",
+    "content": ". ",
+    "url": "/#hi-there-im-wooim-choi-",
+    
+    "relUrl": "/#hi-there-im-wooim-choi-"
+  },"9": {
+    "doc": "Home",
+    "title": "❤️‍🔥 Passionate about Data Engineer &amp; Fullstack Development",
+    "content": ". | 🔭 I’m currently a Data Engineer | 🌱 I’m currently focusing on Data Modelling in Data warehouse and Data mart | 📘 I’m currently learning Kubernetes | . ",
+    "url": "/#%EF%B8%8F-passionate-about-data-engineer--fullstack-development",
+    
+    "relUrl": "/#️-passionate-about-data-engineer--fullstack-development"
+  },"10": {
+    "doc": "Home",
+    "title": "🛠 Languages",
+    "content": " ",
+    "url": "/#-languages",
+    
+    "relUrl": "/#-languages"
+  },"11": {
+    "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"9": {
+  },"12": {
     "doc": "Minimal layout test",
     "title": "Minimal layout test",
     "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
     "url": "/docs/minimal-test/",
     
     "relUrl": "/docs/minimal-test/"
-  },"10": {
+  },"13": {
     "doc": "mongo",
     "title": "mongo",
     "content": " ",
