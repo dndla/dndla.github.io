@@ -8,26 +8,41 @@ has_toc: false
 ---
 
 # Hi there, I'm Wooim Choi 👋 
+<a href="mailto:wooim.choi@gmail.com">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+</a>
+<a href="https://github.com/dndla/dndla.github.io" traget="_blank">
+    <img src="/assets/images/github.png" style="height:20px;    margin-left:10px;" />
+</a>
+<br/>
 
-## Passionate about Data Engineer & Fullstack Development ❤️‍🔥🔥
------
+## ❤️‍🔥 Passionate about Data Engineer & Fullstack Development
 
-- 📘 I’m currently studying **Data Engineer**
+- 🔭 I'm currently a **Data Engineer**
+- 🌱 I’m currently focusing on DData Modelling in Data warehouse and Data mart
+- 📘 I’m currently learning Kubernetes
 
-## 💻 Technologies & Tools:
-<img src="/assets/images/apaache_nifi.png">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascriptlogoColor=black"> 
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<!-- ## Projects 🚀
+-  -->
+
+## 🛠 Languages
+<div class="d-badge">
+    <img src="/assets/images/apache_nifi.png">
+    <img src="/assets/images/apache_spark.png">
+    <img src="/assets/images/apache_hive.png">
+    <img src="/assets/images/prestodb.png">
+    <img src="/assets/images/postgresql.png">
+    <img src="/assets/images/python.png"><br/>
+    <img src="/assets/images/react.png">
+    <img src="/assets/images/vuejs.png">
+    <img src="/assets/images/spring.png">
+    <img src="/assets/images/javascript.png">
+    <img src="/assets/images/oracle.png">
+    <img src="/assets/images/mysql.png">
+    <img src="/assets/images/node_icon.png"><br/>
+    <img src="/assets/images/aws.png">
+    <img src="/assets/images/tomcat.png">
+    <img src="/assets/images/github.png" style="height:30px; margin-bottom:5px">
+    <img src="/assets/images/git.png">
+    <img src="/assets/images/docker.png">
+</div>
