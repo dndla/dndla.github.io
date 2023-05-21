@@ -28,68 +28,96 @@
     "relUrl": "/database/mongo/1/"
   },"4": {
     "doc": "docker?",
+    "title": "갑분도커",
+    "content": "여느 때처럼 맘에 드는 라이브러리를 설치하여 docker-compose up 한 다음 이것저것 살펴 보다 문득 도커란 무엇이지? 라는 생각이 들었다. 그래 도커는 컨데이터 기반 가상화 플랫폼이지. 그럼 컨테이너는 뭐지? 가상화는 뭐지? 하이퍼바이저는 뭐지? 아 분명 VM 이랑 뭐가 달랐는데.. 계속 된 질문에 내가 블로그를 하기로 마음먹었던 지난날이 떠올랐다. 그래. 질문에 답을 해보자라는 마음으로 첫 포스팅으로 도커의 내용부터 기록해보기로 한다. ",
+    "url": "/docker/1#%EA%B0%91%EB%B6%84%EB%8F%84%EC%BB%A4",
+    
+    "relUrl": "/docker/1#갑분도커"
+  },"5": {
+    "doc": "docker?",
+    "title": "Container",
+    "content": ". | 컨테이너는 코드와 모든 종속성을 패키지화하여 응용 프로그램이 한 컴퓨팅 환경에서 다른 컴퓨팅 환경으로 빠르고 안정적으로 실행되도록 하는 소프트웨어의 표준 단위 | 각각의 응용 프로그램을 동일한 환경에서 실행가능하도록 패키지화 . | 동일한 코드라면 어떤 pc에서 실행 시키더라도, 추가로 설치 해야 될 파일도 없고 실행 시 오류가 발생하지 않음 | . | . A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another (https://www.docker.com/resources/what-container/) . ",
+    "url": "/docker/1#container",
+    
+    "relUrl": "/docker/1#container"
+  },"6": {
+    "doc": "docker?",
+    "title": "Docker Image",
+    "content": "https://phoenixnap.com/kb/docker-image-vs-container . | 컨테이너 생성 명령이 포함 된 일종의 read-only 템플릿 . | read-only 속성으로 인해, 특정 시점의 애플리케이션과 가상환경을 나타내는 스냅샷 이라고 부르기도 함 | . | 응용프로그램을 실행하는데 필요한 파일(소스코드, 라이브러리, 설정 ..)을 포함 | Host OS 커널에 의존 | 이미지는 Docker Hub에서 가져올수도 있으며, Dockerfile을 이용하여 수동으로 빌드할 수 있음 | 레이어 계층 구조이며, Base Image 기반으로 다양한 image layer 를 추가함으로써 무한으로 도커 이미지 생성 가능 | . ",
+    "url": "/docker/1#docker-image",
+    
+    "relUrl": "/docker/1#docker-image"
+  },"7": {
+    "doc": "docker?",
+    "title": "Docker build",
+    "content": "아래 간단한 Dockerfile 로 빌드 . # dockerfile FROM alpine RUN command CMD [\"echo\",\"hello\"] . docker build -t wooim-layer:0.0.1 . Sending build context to Docker daemon 2.048kB Step 1/3 : FROM alpine ---&gt; 44dd6f223004 Step 2/3 : RUN command ---&gt; Running in b584d9484b8d Removing intermediate container b584d9484b8d ---&gt; bd638b19c6b6 Step 3/3 : CMD [\"echo\",\"hello\"] ---&gt; Running in ca3b0f93fb2e Removing intermediate container ca3b0f93fb2e ---&gt; 19833282574e Successfully built 19833282574e Successfully tagged wooim-layer:0.0.1 . 해당 이미지 ID를 inspect 하면 layer 정보가 출력된다 . docker image inspect [image ID] \"RootFS\": { \"Type\": \"layers\", \"Layers\": [ \"sha256:94dd7d531fa5695c0c033dcb69f213c2b4c3b5a3ae6e497252ba88da87169c3f\" ] } . [References] . | https://phoenixnap.com/kb/docker-image-vs-container | https://circleci.com/blog/docker-image-vs-container | https://www.docker.com/resources/what-container | . ",
+    "url": "/docker/1#docker-build",
+    
+    "relUrl": "/docker/1#docker-build"
+  },"8": {
+    "doc": "docker?",
     "title": "docker?",
-    "content": "docker…? . ",
+    "content": ". ",
     "url": "/docker/1",
     
     "relUrl": "/docker/1"
-  },"5": {
+  },"9": {
     "doc": "process-outof-memory 에러",
     "title": "process-outof-memory 에러",
     "content": "MongoDB 설치 후 아래와 같은 에러가 발생하였다. 관련 내용을 찾아보니 node 버전 문제로 확인되어 brew를 이용하여 버전을 변경하였다. :point_right: node 버전 확인 . node -v . :point_right: brew를 이용하여 node 버전 변경 . # 노트버전 조회 brew search node # 노드 설치 brew install node@14 # 노드 링크 brew link node@14 . ",
     "url": "/database/mongo/2/",
     
     "relUrl": "/database/mongo/2/"
-  },"6": {
+  },"10": {
     "doc": "Database",
     "title": "Database",
     "content": " ",
     "url": "/database",
     
     "relUrl": "/database"
-  },"7": {
+  },"11": {
     "doc": "Docker",
     "title": "Docker",
     "content": " ",
     "url": "/docker",
     
     "relUrl": "/docker"
-  },"8": {
+  },"12": {
     "doc": "Home",
     "title": "Hi there, I’m Wooim Choi 👋",
     "content": ". ",
     "url": "/#hi-there-im-wooim-choi-",
     
     "relUrl": "/#hi-there-im-wooim-choi-"
-  },"9": {
+  },"13": {
     "doc": "Home",
     "title": "❤️‍🔥 Passionate about Data Engineer &amp; Fullstack Development",
     "content": ". | 🔭 I’m currently a Data Engineer | 🌱 I’m currently focusing on Data Modelling in Data warehouse and Data mart | 📘 I’m currently learning Kubernetes | . ",
     "url": "/#%EF%B8%8F-passionate-about-data-engineer--fullstack-development",
     
     "relUrl": "/#️-passionate-about-data-engineer--fullstack-development"
-  },"10": {
+  },"14": {
     "doc": "Home",
     "title": "🛠 Languages",
     "content": " ",
     "url": "/#-languages",
     
     "relUrl": "/#-languages"
-  },"11": {
+  },"15": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"12": {
+  },"16": {
     "doc": "Minimal layout test",
     "title": "Minimal layout test",
     "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
     "url": "/docs/minimal-test/",
     
     "relUrl": "/docs/minimal-test/"
-  },"13": {
+  },"17": {
     "doc": "mongo",
     "title": "mongo",
     "content": " ",
